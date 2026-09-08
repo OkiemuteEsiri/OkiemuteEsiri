@@ -1,73 +1,55 @@
 # Okiemute Esiri
 
-## Cybersecurity Engineer | Vulnerability Management | Security Engineering | Red Teaming
+## Cybersecurity Engineer | Security Engineering | Vulnerability Management | Red Teaming
 
-Cybersecurity professional focused on reducing enterprise attack surface, validating security exposure, and translating technical findings into actionable remediation. My work spans **Vulnerability Management, Threat Intelligence, Security Engineering, Penetration Testing, Incident Response, Threat Modeling, and Security Automation**.
+Cybersecurity engineer focused on **risk-based vulnerability management, exposure reduction, security engineering, detection, and authorized adversary simulation**. I build practical security workflows that connect technical findings to remediation priorities, measurable risk reduction, and clear stakeholder decisions.
 
-I use a risk-based approach: identify exploitable exposure, establish business context, prioritize remediation, validate fixes, and communicate residual risk clearly to technical and executive stakeholders.
+My portfolio combines defensive engineering with controlled offensive-security labs across vulnerability management, Active Directory and identity, detection engineering, incident response, cloud security, web/API security, network security, threat intelligence, security automation, and DevSecOps.
+
+> **Portfolio principle:** Validate exposure. Prioritize by risk. Engineer repeatable controls. Measure remediation. Document evidence.
+
+---
+
+## Flagship Projects
+
+| Project | Engineering focus |
+|---|---|
+| [Vulnerability Prioritization Engine](https://github.com/OkiemuteEsiri/vulnerability-prioritization-engine) | Explainable risk scoring using severity, exploitability, asset context, exposure, KEV/EPSS-style signals and remediation priority |
+| [Adversary Emulation Lab](https://github.com/OkiemuteEsiri/adversary-emulation-lab) | Authorized adversary-emulation planning, ATT&CK alignment, telemetry expectations and defensive validation |
+| [Active Directory Security Lab](https://github.com/OkiemuteEsiri/active-directory-security-lab) | Identity attack paths, privileged access, Kerberos, delegation, AD CS, GPO and BloodHound-oriented analysis |
+| [Detection Engineering Playbook](https://github.com/OkiemuteEsiri/detection-engineering-playbook) | Detection lifecycle, ATT&CK mapping, Sigma-style analytics, validation and tuning |
+| [Incident Response Lab](https://github.com/OkiemuteEsiri/incident-response-lab) | Evidence-driven triage, containment, investigation, recovery and lessons learned |
+| [Cloud Security Posture Dashboard](https://github.com/OkiemuteEsiri/cloud-security-posture-dashboard) | Cloud posture findings, severity aggregation and remediation-oriented reporting |
+| [OWASP Top 10 Lab](https://github.com/OkiemuteEsiri/owasp-top10-lab) | Controlled web security assessment methodology and professional finding documentation |
+| [Network Pentest Lab](https://github.com/OkiemuteEsiri/network-pentest-lab) | Authorized network assessment, attack-surface mapping, validation and hardening |
 
 ---
 
 ## Core Security Domains
 
-| Domain | Focus |
-|---|---|
-| Vulnerability Management | Discovery, prioritization, SLA tracking, risk-based remediation, exposure validation, executive reporting |
-| Red Teaming | Adversary simulation, attack-path analysis, reconnaissance, exploitation validation, post-exploitation methodology |
-| Web Application Security | OWASP Top 10, authentication/authorization testing, injection, access control, API testing |
-| Network Penetration Testing | Enumeration, service analysis, attack-surface mapping, exploitation validation, segmentation testing |
-| Active Directory Security | Identity attack paths, Kerberos abuse concepts, BloodHound analysis, privilege escalation testing |
-| Wireless Security | 802.11 reconnaissance, authentication assessment, rogue AP and configuration-risk analysis |
-| Mobile Application Security | Android/iOS testing methodology, traffic analysis, storage, authentication and API security |
-| IoT Security | Device attack surface, firmware/network exposure, insecure protocols and configuration analysis |
-| Incident Response | Triage, containment, evidence-driven investigation, root-cause analysis and lessons learned |
-| Threat Modeling | Assets, trust boundaries, attack paths, STRIDE-style threat identification and mitigations |
-| Threat Intelligence | CVE intelligence, exploitability context, attacker activity and vulnerability prioritization |
-| Security Automation | Python, PowerShell, API integrations, data normalization and security reporting workflows |
+**Vulnerability & Exposure Management** — discovery, validation, CVE enrichment, exploitability context, risk-based prioritization, SLA governance, remediation ownership, exception management and executive reporting.
+
+**Security Engineering** — control design, exposure reduction, secure configuration, security architecture, telemetry, automation, remediation validation and measurable security outcomes.
+
+**Red Teaming & Penetration Testing** — authorized reconnaissance, attack-path analysis, web/API testing, network assessment, identity-security validation, adversary emulation and evidence-based reporting.
+
+**Detection & Incident Response** — SIEM/EDR telemetry, ATT&CK-aligned detections, investigation workflows, containment, root-cause analysis, validation and lessons learned.
+
+**Cloud, Identity & DevSecOps** — IAM, Active Directory/Entra ID, cloud posture, container/Kubernetes security, CI/CD security, SAST/DAST, dependency and secret scanning.
 
 ---
 
 ## Technology & Tooling
 
-**Vulnerability & Exposure Management**  
-Tenable · Qualys · CrowdStrike Falcon · Microsoft Defender · Armis · Kenna / ThreatHub · ServiceNow IRM
-
-**Offensive Security**  
-Burp Suite · OWASP ZAP · Nmap · Metasploit · SQLmap · Nikto · Hydra · BloodHound · Kerbrute · Impacket · Kali Linux
-
-**Detection, SIEM & Identity**  
-Microsoft Sentinel · Microsoft Defender · Azure / Microsoft 365 security tooling · Active Directory security analysis
-
-**Automation, Data & Reporting**  
-Python · PowerShell · MongoDB · SQL · Power BI · REST APIs · Git · CI/CD
-
-**Infrastructure & Platforms**  
-Linux · Windows · Networking · SSH · Node.js · Kubernetes fundamentals
+**Vulnerability / Exposure:** Tenable · Qualys · CrowdStrike Falcon · Microsoft Defender · Armis · Kenna / ThreatHub · ServiceNow IRM  
+**Offensive Security:** Burp Suite · OWASP ZAP · Nmap · Metasploit · SQLmap · Nikto · Hydra · BloodHound · Kerbrute · Impacket · Kali Linux  
+**Detection / SIEM / Identity:** Microsoft Sentinel · Microsoft Defender · Active Directory · Microsoft 365 / Azure security tooling  
+**Automation / Data:** Python · PowerShell · MongoDB · SQL · Power BI · REST APIs · Git · CI/CD  
+**Infrastructure:** Linux · Windows · Networking · SSH · Docker · Kubernetes fundamentals
 
 ---
 
-## Portfolio
-
-This profile is being developed as an evidence-based cybersecurity engineering portfolio. Each section documents methodology, defensive value, controlled lab exercises, reporting standards, and remediation guidance.
-
-### Security Engineering & Defensive Operations
-
-- [Vulnerability Management](portfolio/vulnerability-management.md)
-- [Threat Intelligence](portfolio/threat-intelligence.md)
-- [Incident Response](portfolio/incident-response.md)
-- [Threat Modeling](portfolio/threat-modeling.md)
-- [Security Automation](portfolio/security-automation.md)
-
-### Offensive Security & Red Teaming
-
-- [Red Teaming](portfolio/red-teaming.md)
-- [Web Application Penetration Testing](portfolio/web-application-security.md)
-- [Network Penetration Testing](portfolio/network-penetration-testing.md)
-- [Wireless, Mobile & IoT Security](portfolio/wireless-mobile-iot-security.md)
-
----
-
-## Vulnerability Management Approach
+## Vulnerability Management Engineering
 
 ```text
 Asset Discovery
@@ -82,76 +64,82 @@ Risk-Based Prioritization
       ↓
 Remediation Ownership
       ↓
-SLA / Exception Tracking
+SLA / Exception Governance
       ↓
 Fix Validation
       ↓
 Metrics, Trends & Executive Reporting
 ```
 
-I prioritize vulnerabilities using more than CVSS alone. Decision factors include asset criticality, internet exposure, known exploitation, exploit maturity, privilege requirements, attack complexity, compensating controls, vulnerability age, remediation availability, and business impact.
+I treat CVSS as one input rather than the complete risk decision. Prioritization can incorporate asset criticality, external exposure, known exploitation, exploit maturity, privilege requirements, attack complexity, compensating controls, vulnerability age, remediation availability and business impact.
 
 ---
 
-## Red Team Methodology
+## Red Team & Purple Team Workflow
 
 ```text
-Rules of Engagement
+Authorization / Rules of Engagement
       ↓
-Reconnaissance
+Reconnaissance & Attack-Surface Mapping
       ↓
-Attack-Surface Mapping
+Controlled Technique Validation
       ↓
-Initial Access Validation
+Identity / Privilege / Movement Analysis
       ↓
-Privilege Escalation
-      ↓
-Lateral Movement
-      ↓
-Objective Validation
+Telemetry & Detection Validation
       ↓
 Evidence Collection
       ↓
-Risk & Remediation Report
+Risk, Remediation & Retest
 ```
 
-All offensive-security material in this portfolio is intended for **authorized security testing, controlled labs, defensive validation, and professional education**.
+All offensive-security content is restricted to **authorized testing, controlled laboratories, defensive validation and professional education**. The portfolio does not publish credentials, confidential client information, production targets or uncontrolled exploitation instructions.
 
 ---
 
-## What I Build
+## Portfolio Coverage
 
-- Risk-based vulnerability prioritization workflows
-- Vulnerability and patch-compliance dashboards
-- Security metrics and KRI reporting
-- Attack-surface and exposure analysis
-- Penetration-testing methodologies and lab reports
-- Threat models and abuse-case analysis
-- Incident-response playbooks
-- Python and PowerShell security automation
-- Detection and remediation validation workflows
-- Security engineering documentation designed for both technical and executive audiences
+- Vulnerability Management & Exposure Engineering
+- Red Teaming & Adversary Emulation
+- Active Directory & Identity Security
+- Detection Engineering & Purple Teaming
+- Incident Response & Threat Hunting
+- Threat Intelligence & CVE Enrichment
+- Web Application & API Security
+- Network Penetration Testing
+- Cloud Security Engineering
+- Security Automation with Python and PowerShell
+- DevSecOps, Container & Kubernetes Security
+- Wireless, Mobile & IoT Security
 
----
-
-## Current Portfolio Roadmap
-
-- [x] Cybersecurity profile foundation
-- [x] Vulnerability Management methodology
-- [x] Red Team / offensive-security methodology
-- [x] Web, network, wireless, mobile and IoT testing structure
-- [x] Incident Response framework
-- [x] Threat Modeling framework
-- [x] Threat Intelligence framework
-- [x] Security Automation framework
-- [ ] Add sanitized vulnerability-management case studies
-- [ ] Add controlled penetration-testing lab evidence
-- [ ] Add Python/PowerShell security automation projects
-- [ ] Add detection engineering and SIEM use cases
-- [ ] Add cloud and identity-security projects
+The repositories use **synthetic data and controlled lab scenarios** where evidence is required, keeping the work reproducible without exposing employer or client information.
 
 ---
 
-## Security Principles
+## Current Build Status
 
-**Validate before escalating. Prioritize by risk. Automate repeatable work. Measure remediation outcomes. Document evidence. Never test systems without authorization.**
+The portfolio is being expanded from methodology repositories into implementation-focused projects. Current flagship work includes risk-scoring engines, defensive detection content, incident-response playbooks, cloud posture analysis, security assessment frameworks, synthetic datasets and testable security automation.
+
+### Engineering Roadmap
+
+- [x] Cybersecurity engineering profile foundation
+- [x] Vulnerability prioritization implementation
+- [x] Red-team/adversary-emulation methodology
+- [x] Active Directory security lab foundation
+- [x] Detection engineering playbook
+- [x] Incident response lab
+- [x] Cloud posture analysis
+- [x] Web and network assessment labs
+- [ ] Expand automated security engineering test coverage
+- [ ] Add more ATT&CK-mapped detection scenarios
+- [ ] Expand identity and cloud attack-path analysis
+- [ ] Add portfolio-scale dashboards and reporting examples
+- [ ] Complete Wireless, Mobile and IoT implementation labs
+
+---
+
+## Professional Focus
+
+I am particularly interested in roles spanning **Security Engineering, Vulnerability Management, Exposure Management, Detection Engineering, Threat & Vulnerability Analysis, and Red/Purple Team security validation**.
+
+**Security is strongest when findings become engineering decisions, remediation becomes measurable, and validation closes the loop.**
